@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Dream shop github link](https://github.com/programming-hero-web-course-4/product-analysis-website-zannatreya).
+
+This project was bootstrapped with [Dream shop live site link](https://emazon-shoe-shop.netlify.app/).
 
 ## Available Scripts
 
