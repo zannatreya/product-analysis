@@ -6,11 +6,11 @@ This project was bootstrapped with [Dream shop live site link](https://emazon-sh
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- In this project,there are 4 nav link.Home,Customer Reviews,Dashboard,about.
+- In the home page,I create first section with image and article,second section with customer review.
+- In reviews page,there are six customer reviews and one button.
+- In dashboard page,I create two chart,LineChart and BarChart.
+- I also use react route and tailwind.
 
 ## Available Scripts
 

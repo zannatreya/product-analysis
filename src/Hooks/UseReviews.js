@@ -3,11 +3,11 @@ const { useState, useEffect } = require("react")
 const UseReviews = () => {
     const [reviews, setReviews] = useState([]);
     useEffect(() => {
-        fetch('')
+        fetch('products.json')
             .then(res => res.json())
             .then(data => setReviews(data))
     }, []);
-    console.log(reviews);
+    // console.log(reviews);
     return [reviews, setReviews];
 }
 
