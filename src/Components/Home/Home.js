@@ -19,10 +19,7 @@ const Home = () => {
                 </div>
                 <div>
                     <div className='w-full h-full bg-gray-200 rounded-lg'>
-                        <img
-                            src='https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52b5fde5829a4a04820dacf50127b969_9366/Adicolor_Classics_Primeblue_SST_Track_Pants_Blue_H06714_21_model.jpg"'
-                            alt=''
-                        />
+                        <img src={'laptop.jpg'} alt="" />
                     </div>
                 </div>
             </div>
