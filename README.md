@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Dream shop github link](https://github.com/programming-hero-web-course-4/product-analysis-website-zannatreya).
 
-This project was bootstrapped with [Dream shop live site link](https://emazon-shoe-shop.netlify.app/).
+This project was bootstrapped with [Dream shop live site link](https://react-customer-review.netlify.app/).
 
 ## Features
 
