@@ -1,6 +1,6 @@
 const { useState, useEffect } = require("react")
 
-const UseReviews = () => {
+const useReviews = () => {
     const [reviews, setReviews] = useState([]);
     useEffect(() => {
         fetch('products.json')
@@ -11,4 +11,4 @@ const UseReviews = () => {
     return [reviews, setReviews];
 }
 
-export default UseReviews;
+export default useReviews;
